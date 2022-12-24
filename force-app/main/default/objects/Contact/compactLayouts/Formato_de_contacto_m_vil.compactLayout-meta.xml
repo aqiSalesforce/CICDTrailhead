@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CompactLayout xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Formato_de_contacto_m_vil</fullName>
+    <fields>Name</fields>
+    <fields>Phone</fields>
+    <fields>Etapa__c</fields>
+    <fields>Email</fields>
+    <label>Formato de contacto móvil</label>
+</CompactLayout>

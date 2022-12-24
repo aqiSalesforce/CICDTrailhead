@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ActionPlanTemplate xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>AssessmentTask</itemEntityType>
+            <name>Name</name>
+            <valueLiteral>Damaged product count check in warehouses and stores.</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>AssessmentTask</itemEntityType>
+            <name>AssessmentTaskDefinitionId</name>
+            <valueLiteral>0Z47Q00000004f8SAA</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <isRequired>false</isRequired>
+        <itemEntityType>AssessmentTask</itemEntityType>
+        <name>Damaged product count check in warehouses and stores.</name>
+        <uniqueName>Damaged_product_count_check_in_warehouses_a_31a0b60c_73c5_11ec_bc36_5b5be4b00f0c</uniqueName>
+    </actionPlanTemplateItem>
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>AssessmentTask</itemEntityType>
+            <name>Name</name>
+            <valueLiteral>General CSAT survey</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>AssessmentTask</itemEntityType>
+            <name>AssessmentTaskDefinitionId</name>
+            <valueLiteral>0Z47Q00000004SpSAI</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <isRequired>true</isRequired>
+        <itemEntityType>AssessmentTask</itemEntityType>
+        <name>General CSAT survey</name>
+        <uniqueName>General_CSAT_survey_45a893a1_73c5_11ec_bc36_9fe9fdef9ef1</uniqueName>
+    </actionPlanTemplateItem>
+    <actionPlanTemplateItem>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>AssessmentTask</itemEntityType>
+            <name>Name</name>
+            <valueLiteral>Capture orders for out-of-stock products</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <actionPlanTemplateItemValue>
+            <itemEntityType>AssessmentTask</itemEntityType>
+            <name>AssessmentTaskDefinitionId</name>
+            <valueLiteral>0Z47Q00000004SqSAI</valueLiteral>
+        </actionPlanTemplateItemValue>
+        <isRequired>true</isRequired>
+        <itemEntityType>AssessmentTask</itemEntityType>
+        <name>Capture orders for out-of-stock products</name>
+        <uniqueName>Capture_orders_for_out_of_stock_products_4e125ae7_73c5_11ec_bc36_8ddf46e465e5</uniqueName>
+    </actionPlanTemplateItem>
+    <description>Used by field reps to capture key metrics around pre-sales activities.</description>
+    <isAdHocItemCreationEnabled>true</isAdHocItemCreationEnabled>
+    <name>Pre-Sales compliance for NTO stores</name>
+    <targetEntityType>Visit</targetEntityType>
+    <uniqueName>Pre_Sales_compliance_for_NTO_stores_d833e49a_e2c7_11ea_868b_ff0db0179e42</uniqueName>
+</ActionPlanTemplate>

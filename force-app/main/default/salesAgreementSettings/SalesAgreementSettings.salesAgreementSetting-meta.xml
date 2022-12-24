@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SalesAgreementSettings xmlns="http://soap.sforce.com/2006/04/metadata">
+    <actualsCalculationMode>Manual</actualsCalculationMode>
+    <displayedAgreementTermsMetrics>PlannedQuantity,ActualQuantity,SalesPrice,DiscountPercentage,DerivedPlannedAmount</displayedAgreementTermsMetrics>
+    <isOnlyApprovalProcessUsed>false</isOnlyApprovalProcessUsed>
+    <renewalPeriodDayCount>60</renewalPeriodDayCount>
+</SalesAgreementSettings>

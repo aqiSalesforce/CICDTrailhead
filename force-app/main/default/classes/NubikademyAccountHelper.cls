@@ -8,7 +8,5 @@ public with sharing class NubikademyAccountHelper {
                 acc.Name = acc.Name + ' ' + count;
             }
         }
-
-        System.debug('accounts: ' + accounts);
     }
 }
